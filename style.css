@@ -1,0 +1,233 @@
+body {
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:
+      url(https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdhbGxwYXBlciUyMDRrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60)
+  }
+  
+  .lodo {
+    mix-blend-mode: multiply;
+    display: flex;
+  }
+  
+  .nav {
+    display: flex;
+    margin-left: 190px;
+    padding: 50px;
+    text-decoration: none;
+    list-style: none;
+    gap: 25px;
+  }
+  
+  .nav,
+  a {
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    font-family: oswald, sans-serif;
+  
+  
+  }
+  
+  a:hover {
+    background-color: white;
+  }
+  
+  a {
+    text-shadow: 20px;
+  }
+  
+  .para {
+    font-size: 50px;
+    text-align: center;
+    font-family: oswald, sans-serif;
+    margin: 200px;
+    color: black;
+  }
+  
+  .para1 {
+    font-family: oswald, sans-serif;
+    position: relative;
+    left: 430px;
+    bottom: 190px;
+    font-size: 20px;
+  }
+  
+  .container1 {
+    display: grid;
+    background-color: yellow;
+    grid-row-gap: 10px;
+    grid-column-gap: 0px;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: 50px;
+    width: 900px;
+    text-align: center;
+    margin-left: 200px;
+    position: relative;
+    bottom: 190px;
+    font-family: oswald, sans-serif;
+  }
+  
+  .item {
+    background-color: aquamarine;
+    border: 2px solid white;
+    padding: 20px;
+  }
+  
+  .item1 {
+    background-color: lightsalmon;
+    padding: 20px;
+  }
+  
+  .help {
+    text-align: center;
+    position: relative;
+    bottom: 170px;
+    font-family: oswald, sans-serif;
+  }
+  
+  .container2 {
+    background-color: wheat;
+    margin: 0px;
+    padding: 5px;
+    font-family: oswald, sans-serif;
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    position: relative;
+    bottom: 60px;
+  }
+  
+  .luxury {
+    margin-left: 60px;
+  }
+  
+  .container3 {
+    margin: 20px;
+    margin-left: 400px;
+    display: flex;
+    position: relative;
+    bottom: 60px;
+  
+  }
+  
+  .sparrow {
+    position: relative;
+    bottom: 50px;
+  }
+  
+  .winter {
+    font-family: dancing script, sans-serif;
+    margin-left: 60px;
+    font-size: 20px;
+    text-transform: capitalize;
+    position: relative;
+    bottom: 30px;
+  }
+  
+  .container,
+  button {
+    margin: 30px;
+    /* border: 4px solid lightblue; */
+    border-radius: 20px;
+    background-color: transparent;
+    font-family: oswald, sans-serif;
+    text-transform: capitalize;
+  }
+  
+  .container4 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .class1 {
+    border: 1px solid #ccc;
+    font-size: 20px;
+    font-family: lobster, sans-serif;
+    width: 350px;
+    /* margin-left: 100px; */
+    text-align: center;
+  }
+  
+  .class2 {
+    border: 1px solid #ccc;
+    font-size: 20px;
+    font-family: lobster, sans-serif;
+    width: 350px;
+    /* margin-left: 100px; */
+    text-align: center;
+  
+  }
+  
+  .class3 {
+    border: 1px solid #ccc;
+    font-size: 20px;
+    font-family: lobster, sans-serif;
+    width: 350px;
+    /* margin-left: 100px; */
+    text-align: center;
+  }
+  
+  .container6 {
+    display: flex;
+    text-align: center;
+    background-color: beige;
+    margin: 20px;
+    font-family: pacifico, sans-serif;
+    text-transform: capitalize;
+  
+  }
+  
+  .band {
+    margin-left: 350px;
+  }
+  
+  .music {
+    margin-left: 30px
+  }
+  
+  .container7 {
+    text-align: center;
+    border: 2px solid rgb(148, 148, 148);
+    width: 200px;
+    padding: 30px;
+    font-family: pacifico, sans-serif;
+    margin-left: 200px;
+    margin: 50px;
+  }
+  
+  .button1 {
+    /* border-bottom: 2px solid white; */
+    margin-left: 90px;
+    position: relative;
+    bottom: 50px;
+  }
+  
+  /* .container8{
+  position: relative;
+  left: 500px;
+  bottom
+  } */
+  .parrot {
+    /* border: 2px solid white;  */
+    width: 500px;
+    padding: 100px;
+    margin-left: 600px;
+    position: relative;
+    bottom: 550px;
+    font-family: pacifico, sans-serif;
+    height: 0vh;
+  }
+  
+  .heading {
+    margin-left: 800px;
+    position: relative;
+    bottom: 550px;
+  }
+  
+  .position {
+    position: relative;
+    left: 300px;
+    bottom: 350px;
+  }
